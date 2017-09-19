@@ -1,7 +1,7 @@
 NST World of Color (Minecraft 1.12.x)
 ============================
 
-This branch, 'exploration', is for Minecraft 1.12.x.
+This branch, 'World of Color', is for Minecraft 1.12.x.
 
 # Packs using this config
 
@@ -18,6 +18,7 @@ This branch, 'exploration', is for Minecraft 1.12.x.
 
 # Texture Pack
 [LB Photo Realism Reload (by 1LotS)](https://minecraft.curseforge.com/projects/lb-photo-realism-reload)
+
 [Modded Faithful (by xMrVizzy)](https://minecraft.curseforge.com/projects/modded-faithful)
 
 # Mods (TBD, copied for NST Exploration (1.11) for now)
