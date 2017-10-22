@@ -1,7 +1,15 @@
 NST World of Color (Minecraft 1.12.x)
 ============================
 
-This branch, 'World of Color', is for Minecraft 1.12.x.
+This branch, 'World of Color', is for Minecraft 1.12.
+
+Never Stop Toasting Minecraft 1.12.2 modpack by Lolmer. Just posting what I use for my family to play at home.
+
+I may add/remove mods throughout the lifespan of this pack as my family's needs and wants change.
+
+# Other modpacks by Lolmer
+[NST Frostburn](https://minecraft.curseforge.com/projects/nst-unofficial-frostburn) - Minecraft 1.10.2
+[NST Exploration](https://minecraft.curseforge.com/projects/nst-unofficial-exploration) - Minecraft 1.11.2
 
 # Packs using this config
 
@@ -10,7 +18,7 @@ This branch, 'World of Color', is for Minecraft 1.12.x.
 
 # Forge
 
-[1.12.2-14.23.0.2486](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
+[1.12.2-14.23.0.2512](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
 
 # Sponge (Bukkit-like API)
 
@@ -34,7 +42,6 @@ This branch, 'World of Color', is for Minecraft 1.12.x.
 1. [Better Achievements (by Way2muchnoise)](https://minecraft.curseforge.com/mc-mods/235716)
 1. [Better Builder's Wands (by Portablejim)](https://minecraft.curseforge.com/mc-mods/238403)
 1. [BetterFps (by Guichaguri)](https://minecraft.curseforge.com/mc-mods/229876)
-1. [Blood Magic (by WayOfTime)](https://mods.curse.com/mc-mods/minecraft/224791-blood-magic)
 1. [Bloodmoon (by lumien231)](https://minecraft.curseforge.com/mc-mods/226321)
 1. [Botania (by Vazkii)](https://minecraft.curseforge.com/mc-mods/225643)
 1. [Brandon's Core (by brandon3055)](https://minecraft.curseforge.com/projects/brandons-core)
@@ -43,18 +50,12 @@ This branch, 'World of Color', is for Minecraft 1.12.x.
 1. [Chunk Animator (b Lumien)](https://minecraft.curseforge.com/projects/chunk-animator)
 1. [CodeChicken Lib 1.8+ (by covers1624)](https://mods.curse.com/mc-mods/minecraft/242818-codechicken-lib-1-8)
 1. [CoFH Core (by TeamCoFH)](https://minecraft.curseforge.com/projects/cofhcore)
-1. [Compact Solars (by progwml6)](https://minecraft.curseforge.com/projects/compact-solars)
-1. [CompatLayer (by McJty)](https://minecraft.curseforge.com/projects/compatlayer)
-1. [Cooking for Blockheads (by BlayTheNinth)](https://minecraft.curseforge.com/projects/cooking-for-blockheads)
 1. [Connected Textures Mod (by tterrag1098)](https://minecraft.curseforge.com/projects/ctm)
-1. [CraftTweaker (by jaredlll08)](https://minecraft.curseforge.com/mc-mods/239197)
-1. [Dense Ores (by RWTema)](https://minecraft.curseforge.com/projects/dense-ores)
 1. [Draconic Evolution (by brandon3055)](https://minecraft.curseforge.com/projects/draconic-evolution)
 1. [Dynamic Surroundings (by OreCruncher)](https://minecraft.curseforge.com/projects/dynamic-surroundings)
 1. [Embers (by elucent)](https://minecraft.curseforge.com/projects/embers)
 1. [Enchiridion (by joshiejack)](https://minecraft.curseforge.com/mc-mods/76612)
 1. [Ender Storage (by covers1624)](https://minecraft.curseforge.com/projects/ender-storage-1-8)
-1. [Extreme Reactors (by ZeroNoRyouki)](https://minecraft.curseforge.com/projects/extreme-reactors)
 1. [FTB Utilities (by FTB)](https://minecraft.curseforge.com/mc-mods/237102)
 1. [FTBLib (by FTB)](https://minecraft.curseforge.com/mc-mods/237167)
 1. [Foam Fix (by asie)](https://asie.pl/Projects/Minecraft/Mods/FoamFix) (permission to include in modpacks is at https://github.com/asiekierka/FoamFix/issues/13 )
@@ -136,6 +137,4 @@ This branch, 'World of Color', is for Minecraft 1.12.x.
 1. [VeinMiner (by Portablejim)](https://minecraft.curseforge.com/mc-mods/67133)
 1. [Vies Craft - Airships (by Viesis)](https://minecraft.curseforge.com/projects/viescraft-airships)
 1. [WanionLib (by WanionCane)](https://minecraft.curseforge.com/projects/wanionlib)
-1. [Woot (by Ipsis)](https://minecraft.curseforge.com/projects/woot)
 1. [Xnet (by McJty)](https://minecraft.curseforge.com/projects/xnet)
-1. [ZeroCore (by ZeroNoRyouki)](https://minecraft.curseforge.com/projects/zerocore)
