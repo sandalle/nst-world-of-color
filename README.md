@@ -1,4 +1,4 @@
-NST World of Color (Minecraft 1.12.x)
+NST World of Color (Minecraft 1.12)
 ============================
 
 Never Stop Toasting Minecraft 1.12.2 modpack by Lolmer. Just posting what I use for my family to play at home.
