@@ -8,8 +8,8 @@ Never Stop Toasting Minecraft 1.12.2 modpack by Lolmer. Just posting what I use 
 I may add/remove mods throughout the lifespan of this pack as my family's needs and wants change.
 
 # Other modpacks by Lolmer
-[NST Frostburn](https://minecraft.curseforge.com/projects/nst-unofficial-frostburn) - Minecraft 1.10.2
-[NST Exploration](https://minecraft.curseforge.com/projects/nst-unofficial-exploration) - Minecraft 1.11.2
+* [NST Frostburn](https://minecraft.curseforge.com/projects/nst-unofficial-frostburn) - Minecraft 1.10.2
+* [NST Exploration](https://minecraft.curseforge.com/projects/nst-unofficial-exploration) - Minecraft 1.11.2
 
 # Packs using this config
 
