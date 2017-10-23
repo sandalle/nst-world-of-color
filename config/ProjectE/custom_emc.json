@@ -1139,6 +1139,18 @@
     {
       "item": "enderstorage:ender_pouch|0",
       "emc": 4336
+    },
+    {
+      "item": "usefulnullifiers:voidnullifierblock|0",
+      "emc": 456
+    },
+    {
+      "item": "usefulnullifiers:voidnullifieritem|0",
+      "emc": 456
+    },
+    {
+      "item": "usefulnullifiers:overflownullifieritem|0",
+      "emc": 456
     }
   ]
 }
