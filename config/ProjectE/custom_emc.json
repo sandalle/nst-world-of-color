@@ -1115,6 +1115,14 @@
     {
       "item": "chiselsandbits:bit_bag|0",
       "emc": 513
+    },
+    {
+      "item": "mysticalagriculture:crafting|5",
+      "emc": 32
+    },
+    {
+      "item": "mysticalagriculture:crafting|0",
+      "emc": 24
     }
   ]
 }
