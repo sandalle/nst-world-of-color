@@ -1127,6 +1127,18 @@
     {
       "item": "mysticalagriculture:master_infusion_crystal|0",
       "emc": 35956
+    },
+    {
+      "item": "enderstorage:ender_storage|0",
+      "emc": 7408
+    },
+    {
+      "item": "enderstorage:ender_storage|1",
+      "emc": 9136
+    },
+    {
+      "item": "enderstorage:ender_pouch|0",
+      "emc": 4336
     }
   ]
 }
