@@ -1123,6 +1123,10 @@
     {
       "item": "mysticalagriculture:crafting|0",
       "emc": 24
+    },
+    {
+      "item": "mysticalagriculture:master_infusion_crystal|0",
+      "emc": 35956
     }
   ]
 }
