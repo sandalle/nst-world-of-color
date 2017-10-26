@@ -27,7 +27,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 
 [Modded Faithful (by xMrVizzy)](https://minecraft.curseforge.com/projects/modded-faithful)
 
-# Mods (TBD, copied for NST Exploration (1.11) for now)
+# Mods
 
 1. [Actually Additions (by Ellpeck)](https://minecraft.curseforge.com/projects/actually-additions)
 1. [Actually Baubles (by Jacky1356400)](https://minecraft.curseforge.com/projects/actually-baubles)
