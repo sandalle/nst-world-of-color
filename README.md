@@ -54,6 +54,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [CoFH World (by TeamCoFH)](https://minecraft.curseforge.com/projects/cofh-world)
 1. [Colytra (by TheIllusiveC4)](https://minecraft.curseforge.com/projects/colytra)
 1. [Connected Textures Mod (by tterrag1098)](https://minecraft.curseforge.com/projects/ctm)
+1. [CraftTweaker (by jaredlll08)](https://minecraft.curseforge.com/projects/crafttweaker)
 1. [Cucumber (by BlakeBr0)](https://minecraft.curseforge.com/projects/cucumber)
 1. [Default Options (by BlayTheNinth)](https://minecraft.curseforge.com/projects/default-options)
 1. [Dense Metals (by knoxhack)](https://minecraft.curseforge.com/projects/dense-metals)
