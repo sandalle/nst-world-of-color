@@ -27,7 +27,6 @@
         "actuallyadditions:quartz_paxel",
         "actuallyadditions:stone_paxel",
         "actuallyadditions:wooden_paxel",
-        "botania:livingwood",
         "draconicevolution:draconic_axe",
         "draconicevolution:wyvern_axe",
         "embers:axe_aluminum",
@@ -67,6 +66,7 @@
         "thermalfoundation:tool.axe_tin"
       ],
       "blocklist": [
+        "botania:livingwood",
         "forestry:leaves",
         "forestry:leaves.decorative.0",
         "forestry:leaves.decorative.1",
@@ -235,7 +235,6 @@
         "actuallyadditions:quartz_paxel",
         "actuallyadditions:stone_paxel",
         "actuallyadditions:wooden_paxel",
-        "botania:livingrock",
         "draconicevolution:draconic_pick",
         "draconicevolution:wyvern_pick",
         "embers:auto_hammer",
@@ -306,6 +305,7 @@
       ],
       "blocklist": [
         "actuallyadditions:block_misc/3",
+        "botania:livingrock",
         "draconicevolution:draconium_ore/0",
         "embers:ore_aluminum/0",
         "embers:ore_copper/0",
