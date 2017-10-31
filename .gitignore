@@ -8,3 +8,9 @@ Session.vim
 
 # Files we don't want to track
 config/betterfps.json
+config/cofh/thermalfoundation/client.cfg
+config/cofh/core/client.cfg
+config/cofh/thermalcultivation/client.cfg
+config/cofh/redstonearsenal/client.cfg
+config/cofh/thermaldynamics/client.cfg
+config/cofh/thermalexpansion/client.cfg
