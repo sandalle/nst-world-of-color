@@ -47,7 +47,6 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Chameleon (by jaquadro)](https://minecraft.curseforge.com/projects/chameleon)
 1. [Chisel (by tterrag1098)](https://minecraft.curseforge.com/projects/chisel)
 1. [Chisels & Bits (by AlgorithmX2)](https://minecraft.curseforge.com/projects/chisels-bits)
-1. [ChopDown (by Ternsip)](https://minecraft.curseforge.com/projects/chopdown)
 1. [Chunk Animator (by Lumien)](https://minecraft.curseforge.com/projects/chunk-animator)
 1. [CodeChicken Lib 1.8+ (by covers1624)](https://mods.curse.com/mc-mods/minecraft/242818-codechicken-lib-1-8)
 1. [CoFH Core (by TeamCoFH)](https://minecraft.curseforge.com/projects/cofhcore)
