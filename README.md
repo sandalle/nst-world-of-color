@@ -71,7 +71,6 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Help Fixer (by matthewprenger)](https://minecraft.curseforge.com/projects/helpfixer)
 1. [Immersive Engineering (by BluSunrize)](https://minecraft.curseforge.com/projects/immersive-engineering)
 1. [Immersive Petroleum (by theFlaxbears)](https://minecraft.curseforge.com/projects/immersive-petroleum)
-1. [Immersive Railroading (by cam72cam)](https://minecraft.curseforge.com/projects/immersive-railroading)
 1. [Immersive Tech (by ferroo2000)](https://minecraft.curseforge.com/projects/immersive-tech)
 1. [Iron Backpacks (by gr8pefish)](https://minecraft.curseforge.com/projects/iron-backpacks)
 1. [Iron Chests (by progwml6)](https://minecraft.curseforge.com/mc-mods/228756)
