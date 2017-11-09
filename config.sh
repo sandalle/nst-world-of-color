@@ -1,5 +1,5 @@
 #just to set some globals used by the other scripts
-FORGE='forge-1.12.2-14.23.0.2528-universal.jar'
+FORGE='forge-1.12.2-14.23.0.2532-universal.jar'
 SERVER_DIR="$(pwd)"
 START_MEMORY=4096
 MAX_MEMORY=4096
