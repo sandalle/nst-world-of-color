@@ -95,6 +95,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Mystical Agriculture (by BlakeBr0)](https://minecraft.curseforge.com/mc-mods/246640)
 1. [Natura (by mDiyo)](https://minecraft.curseforge.com/projects/natura)
 1. [NetherPortalFix (by BlayTheNinth)](https://minecraft.curseforge.com/mc-mods/241160)
+1. [No More Recipe Conflict (by GotoLink)](https://minecraft.curseforge.com/projects/stimmedcow-nomorerecipeconflict)
 1. [Not Enough Wands (by romelo333)](https://minecraft.curseforge.com/projects/not-enough-wands)
 1. [Nuclear Craft (by tomdodd4598)](https://minecraft.curseforge.com/projects/nuclearcraft-mod)
 1. [OpenComputers (by Kethtar)](https://minecraft.curseforge.com/mc-mods/223008)
