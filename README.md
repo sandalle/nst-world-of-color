@@ -99,6 +99,8 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Not Enough Wands (by romelo333)](https://minecraft.curseforge.com/projects/not-enough-wands)
 1. [Nuclear Craft (by tomdodd4598)](https://minecraft.curseforge.com/projects/nuclearcraft-mod)
 1. [OpenComputers (by Kethtar)](https://minecraft.curseforge.com/mc-mods/223008)
+1. [Open Modular Lib (by Keridos)](https://minecraft.curseforge.com/projects/omlib)
+1. [Open Modular Passive Defense (by Keridos)](https://minecraft.curseforge.com/projects/open-modular-passive-defense)
 1. [Ore Core (by XxRexRaptorxX)](https://minecraft.curseforge.com/projects/ore-core)
 1. [Pam's HarvestCraft (by MatrexsVigil)](https://minecraft.curseforge.com/projects/pams-harvestcraft)
 1. [Persistent Bits (by oitsjustjose)](https://minecraft.curseforge.com/projects/persistent-bits)
