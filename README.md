@@ -101,6 +101,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [OpenComputers (by Kethtar)](https://minecraft.curseforge.com/mc-mods/223008)
 1. [Open Modular Lib (by Keridos)](https://minecraft.curseforge.com/projects/omlib)
 1. [Open Modular Passive Defense (by Keridos)](https://minecraft.curseforge.com/projects/open-modular-passive-defense)
+1. [Open Modular Turrets (by Keridos)](https://minecraft.curseforge.com/projects/openmodularturrets)
 1. [Ore Core (by XxRexRaptorxX)](https://minecraft.curseforge.com/projects/ore-core)
 1. [Pam's HarvestCraft (by MatrexsVigil)](https://minecraft.curseforge.com/projects/pams-harvestcraft)
 1. [Persistent Bits (by oitsjustjose)](https://minecraft.curseforge.com/projects/persistent-bits)
