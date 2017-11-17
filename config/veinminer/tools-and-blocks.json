@@ -557,6 +557,7 @@
         "thermalfoundation:tool.shovel_tin"
       ],
       "blocklist": [
+        "forestry:ash_block",
         "minecraft:clay",
         "minecraft:gravel"
       ]
