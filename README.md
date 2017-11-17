@@ -127,6 +127,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [RFTools Dimensions (by McJty)](https://minecraft.curseforge.com/mc-mods/240950)
 1. [Roguelike Dungeons (by Greymerk)](https://minecraft.curseforge.com/mc-mods/221585)
 1. [Roots (by elucent)](https://minecraft.curseforge.com/projects/roots)
+1. [Secret Rooms Mod (by Pricea1)](https://minecraft.curseforge.com/projects/secretroomsmod)
 1. [Shadowfacts' Forgelin (by shadowfactsmc)](https://minecraft.curseforge.com/projects/shadowfacts-forgelin)
 1. [Simple Harvest (by TehNut)](https://minecraft.curseforge.com/projects/simpleharvest)
 1. [Snad (by TheRoBrit)](https://minecraft.curseforge.com/projects/snad)
