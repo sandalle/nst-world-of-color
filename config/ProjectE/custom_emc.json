@@ -1151,6 +1151,10 @@
     {
       "item": "usefulnullifiers:overflownullifieritem|0",
       "emc": 456
+    },
+    {
+      "item": "forestry:ash|0",
+      "emc": 8
     }
   ]
 }
