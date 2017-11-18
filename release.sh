@@ -10,7 +10,7 @@ git tag -u ${GPG_USER} --sign -m "nst-world-of-color-${VERSION}" "nst-world-of-c
 
 # Increment to next version
 echo ${NEXT_VERSION} > VERSION  &&
-sed -i "s/S:modPackVersion=.*/S:modPackVersion=${NEXT_VERSION}/" config/Mercurius.cfg  &&
+sed -i '' "s/S:modPackVersion=.*/S:modPackVersion=${NEXT_VERSION}/" config/Mercurius.cfg  &&
 git commit -m "Starting ${NEXT_VERSION}" VERSION config/Mercurius.cfg  &&
 
 # Push new version and tags
