@@ -56,6 +56,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [CraftTweaker (by jaredlll08)](https://minecraft.curseforge.com/projects/crafttweaker)
 1. [Cucumber (by BlakeBr0)](https://minecraft.curseforge.com/projects/cucumber)
 1. [Default Options (by BlayTheNinth)](https://minecraft.curseforge.com/projects/default-options)
+1. [Devotion IRC (continuation of EiraIRC) (by Aurtik)](https://minecraft.curseforge.com/projects/devotion-irc)
 1. [Draconic Evolution (by brandon3055)](https://minecraft.curseforge.com/projects/draconic-evolution)
 1. [Dynamic Surroundings (by OreCruncher)](https://minecraft.curseforge.com/projects/dynamic-surroundings)
 1. [Embers (by elucent)](https://minecraft.curseforge.com/projects/embers)
