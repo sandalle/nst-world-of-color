@@ -1,5 +1,7 @@
 #!/bin/bash
 
+[[ -d config/recipes ]] && rm -rf config/recipes/
+
 #Settings
 [[ -f config.sh ]] && . config.sh
 SERVICE="${FORGE:-server.jar}"
