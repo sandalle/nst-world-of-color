@@ -14,6 +14,7 @@ INVOCATION="java -server  \
 	-XX:+AggressiveOpts  \
 	-XX:ParallelGCThreads=4
 	-XX:ConcGCThreads=2
+	-Djava.net.useSystemProxies=true \
 	-Djline.terminal=unix -Djava.util.prefs.userRoot=${SERVER_DIR}  \
 	-Djava.net.preferIPv4Stack=true  \
 	-XX:+AlwaysPreTouch  \
