@@ -121,6 +121,7 @@
         "twilightforest:magic_log",
         "twilightforest:twilight_leaves",
         "twilightforest:twilight_log",
+        "wizardry:wisdom_leaves/0",
         "wizardry:wisdom_wood_log/0"
       ]
     },
@@ -483,7 +484,8 @@
         "natura:redwood_leaves",
         "tconstruct:slime_leaves",
         "twilightforest:magic_leaves",
-        "twilightforest:twilight_leaves"
+        "twilightforest:twilight_leaves",
+        "wizardry:wisdom_leaves/0"
       ]
     },
     "shovel": {
