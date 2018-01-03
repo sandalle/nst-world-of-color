@@ -1,0 +1,27 @@
+[
+  {
+    "address": "irc.synirc.net:7001",
+    "nick": "NSTWorldOfColorServer",
+    "charset": "UTF-8",
+    "isRedirect": false,
+    "isSSL": true,
+    "nickserv": {
+      "username": "NSTWorldOfColorServer",
+      "password": "NotARealPassword"
+    },
+    "channels": [
+      {
+        "name": "#nst"
+      }
+    ],
+    "bot": {
+      "botProfile": "Server",
+      "relayDeathMessages": false,
+      "(more)": "(see shared.cfg for more options)"
+    },
+    "settings": {
+      "autoJoin": true,
+      "(more)": "(see shared.cfg for more options)"
+    }
+  }
+]
