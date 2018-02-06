@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Work around https://github.com/OpenModularTurretsTeam/OpenModularPassiveDefense/issues/14
 [[ -d config/recipes ]] && rm -rf config/recipes/
 
 #Settings
