@@ -1,7 +1,7 @@
 NST World of Color (Minecraft 1.12)
 ============================
 
-Never Stop Toasting Minecraft 1.12.2 modpack by Lolmer. Just posting what I use for my family to play at home. This modpack is a kitchen sink modpack catering to my children (ages 4-9) with magic for overcoming the world and extra bosses (Botania and Twilight Forest), technology for automating resource gathering and processing (Thermal Expansion and Immersive Engineering), and exploring other dimensions (RFTools Dimensions and Twilight Forest) as the primary focuses. Some experimental mods (Wizardry) are thrown in to give them a try and space exploration will be coming once GalactiCraft and/or Advanced Rocketry have stable releases for Minecraft 1.12.2.
+Never Stop Toasting Minecraft 1.12.2 modpack by Lolmer. Just posting what I use for my family to play at home. This modpack is a kitchen sink modpack catering to my children (ages 4-9) with magic for overcoming the world and extra bosses (Botania and Twilight Forest), technology for automating resource gathering and processing (Thermal Expansion and Immersive Engineering), and exploring other dimensions (RFTools Dimensions and Twilight Forest) and space (GalactiCraft) as the primary focuses. Some experimental mods (Wizardry) are thrown in to give them a try.
 
 I may add/remove mods throughout the lifespan of this pack as my family's needs and wants change.
 
