@@ -309,6 +309,7 @@
       "blocklist": [
         "actuallyadditions:block_misc/3",
         "botania:livingrock",
+        "draconicevolution:draconium_ore",
         "draconicevolution:draconium_ore/0",
         "embers:ore_aluminum/0",
         "embers:ore_copper/0",
@@ -458,6 +459,7 @@
         "orecore:tin_ore/0",
         "orecore:uranium_ore/0",
         "orecore:xp_ore/0",
+        "rftools:dimensional_shard_ore",
         "tconstruct:ore/0",
         "tconstruct:ore/1",
         "thermalfoundation:ore/0",
