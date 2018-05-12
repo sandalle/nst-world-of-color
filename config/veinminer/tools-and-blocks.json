@@ -475,7 +475,8 @@
         "thermalfoundation:ore_fluid/1",
         "thermalfoundation:ore_fluid/2",
         "thermalfoundation:ore_fluid/3",
-        "thermalfoundation:ore_fluid/4"
+        "thermalfoundation:ore_fluid/4",
+        "thermalfoundation:ore_fluid/5"
       ]
     },
     "shears": {
