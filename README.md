@@ -16,7 +16,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 
 # Forge
 
-[1.12.2-14.23.2.2654](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
+[1.12.2-14.23.3.2682](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
 
 # Sponge (Bukkit-like API)
 
