@@ -1155,6 +1155,14 @@
     {
       "item": "forestry:ash|0",
       "emc": 8
+    },
+    {
+      "item": "minecraft:coal|1",
+      "emc": 128
+    },
+    {
+      "item": "natura:redwood_logs|1",
+      "emc": 32
     }
   ]
 }
