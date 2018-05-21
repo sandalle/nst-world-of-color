@@ -16,7 +16,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 
 # Forge
 
-[1.12.2-14.23.3.2682](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
+[1.12.2-14.23.3.2702](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
 
 # Sponge (Bukkit-like API)
 
@@ -145,6 +145,8 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Thermal Dynamics (by TeamCoFH)](https://minecraft.curseforge.com/projects/thermal-dynamics)
 1. [Thermal Expansion (by TeamCoFH)](https://minecraft.curseforge.com/projects/thermalexpansion)
 1. [Thermal Foundation (by TeamCoFH)](https://minecraft.curseforge.com/projects/thermal-foundation)
+1. [Thaumcraft (by Azanor)](https://minecraft.curseforge.com/projects/thaumcraft)
+1. [Thaumcraft Inventory Scanning (by BlayTheNinth)](https://minecraft.curseforge.com/projects/thaumcraft-inventory-scanning)
 1. [Tick Profiler (by minimallycorrect)](https://minecraft.curseforge.com/projects/tickprofiler)
 1. [Tinker's Construct (by mDiyo)](https://minecraft.curseforge.com/projects/tinkers-construct)
 1. [Tinker's Tool Leveling (by boni)](https://minecraft.curseforge.com/projects/tinkers-tool-leveling)
