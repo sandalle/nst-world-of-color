@@ -157,5 +157,6 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Vies Craft - Airships (by Viesis)](https://minecraft.curseforge.com/projects/viescraft-airships)
 1. [WanionLib (by WanionCane)](https://minecraft.curseforge.com/projects/wanionlib)
 1. [Wizardry Mod (by saadodi)](https://minecraft.curseforge.com/projects/wizardry-mod)
+1. [Woot (by Ipsis)](https://minecraft.curseforge.com/projects/woot)
 1. [Xnet (by McJty)](https://minecraft.curseforge.com/projects/xnet)
 
