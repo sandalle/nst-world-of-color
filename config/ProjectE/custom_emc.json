@@ -1163,6 +1163,14 @@
     {
       "item": "natura:redwood_logs|1",
       "emc": 32
+    },
+    {
+      "item": "woot:stygianironingot|0",
+      "emc": 512
+    },
+    {
+      "item": "minecraft:bread|0",
+      "emc": 96
     }
   ]
 }
