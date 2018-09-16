@@ -1207,6 +1207,10 @@
     {
       "item": "minecraft:stone_slab|3",
       "emc": 1
+    },
+    {
+      "item": "thermalfoundation:material|2050",
+      "emc": 1536
     }
   ]
 }
