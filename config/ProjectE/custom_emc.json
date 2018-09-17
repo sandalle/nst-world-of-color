@@ -1211,6 +1211,58 @@
     {
       "item": "thermalfoundation:material|2050",
       "emc": 1536
+    },
+    {
+      "item": "psi:material|0",
+      "emc": 128
+    },
+    {
+      "item": "psi:material|1",
+      "emc": 2176
+    },
+    {
+      "item": "psi:material|2",
+      "emc": 8448
+    },
+    {
+      "item": "thermalfoundation:material|892",
+      "emc": 256
+    },
+    {
+      "item": "tconstruct:slime_dirt|0",
+      "emc": 128
+    },
+    {
+      "item": "thaumcraft:salis_mundus|0",
+      "emc": 128
+    },
+    {
+      "item": "thaumcraft:ingot|2",
+      "emc": 128
+    },
+    {
+      "item": "tconstruct:ingots|5",
+      "emc": 128
+    },
+    {
+      "item": "minecraft:stone_slab|0",
+      "emc": 1
+    },
+    {
+      "item": "thaumcraft:amber|0",
+      "emc": 384
+    },
+    {
+      "item": "tconstruct:edible|2",
+      "emc": 64
+    },
+    {
+      "item": "tconstruct:edible|1",
+      "emc": 64
+    },
+    {
+      "item": "tconstruct:edible|4",
+      "emc": 64
     }
   ]
 }
