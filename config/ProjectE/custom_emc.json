@@ -1263,6 +1263,10 @@
     {
       "item": "tconstruct:edible|4",
       "emc": 64
+    },
+    {
+      "item": "thaumcraft:stone_arcane|0",
+      "emc": 264
     }
   ]
 }
