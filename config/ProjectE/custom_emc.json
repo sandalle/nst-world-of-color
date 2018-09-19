@@ -1303,6 +1303,10 @@
     {
       "item": "botania:petal|15",
       "emc": 48
+    },
+    {
+      "item": "minecraft:glass_pane|0",
+      "emc": 1
     }
   ]
 }
