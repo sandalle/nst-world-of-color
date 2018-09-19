@@ -1267,6 +1267,42 @@
     {
       "item": "thaumcraft:stone_arcane|0",
       "emc": 264
+    },
+    {
+      "item": "botania:petal|0",
+      "emc": 48
+    },
+    {
+      "item": "botania:petal|5",
+      "emc": 48
+    },
+    {
+      "item": "botania:petal|7",
+      "emc": 48
+    },
+    {
+      "item": "botania:petal|9",
+      "emc": 48
+    },
+    {
+      "item": "botania:petal|10",
+      "emc": 48
+    },
+    {
+      "item": "botania:petal|11",
+      "emc": 48
+    },
+    {
+      "item": "botania:petal|12",
+      "emc": 48
+    },
+    {
+      "item": "botania:petal|13",
+      "emc": 48
+    },
+    {
+      "item": "botania:petal|15",
+      "emc": 48
     }
   ]
 }
