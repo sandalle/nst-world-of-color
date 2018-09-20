@@ -1315,6 +1315,14 @@
     {
       "item": "forestry:apatite|0",
       "emc": 48
+    },
+    {
+      "item": "actuallyadditions:item_misc|17",
+      "emc": 16
+    },
+    {
+      "item": "thaumcraft:tallow|0",
+      "emc": 32
     }
   ]
 }
