@@ -1311,6 +1311,10 @@
     {
       "item": "thaumcraft:quicksilver|0",
       "emc": 1024
+    },
+    {
+      "item": "forestry:apatite|0",
+      "emc": 48
     }
   ]
 }
