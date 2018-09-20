@@ -1323,6 +1323,10 @@
     {
       "item": "thaumcraft:tallow|0",
       "emc": 32
+    },
+    {
+      "item": "thermalfoundation:material|866",
+      "emc": 1024
     }
   ]
 }
