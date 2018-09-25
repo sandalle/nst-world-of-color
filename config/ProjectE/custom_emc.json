@@ -1363,6 +1363,14 @@
     {
       "item": "thaumcraft:triple_meat_treat|0",
       "emc": 128
+    },
+    {
+      "item": "harvestcraft:octopuscookeditem|0",
+      "emc": 64
+    },
+    {
+      "item": "harvestcraft:calamaricookeditem|0",
+      "emc": 64
     }
   ]
 }
