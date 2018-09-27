@@ -1371,6 +1371,14 @@
     {
       "item": "harvestcraft:calamaricookeditem|0",
       "emc": 64
+    },
+    {
+      "item": "thaumicbases:thauminite_ingot|0",
+      "emc": 3072
+    },
+    {
+      "item": "thaumcraft:nitor_yellow|0",
+      "emc": 768
     }
   ]
 }
