@@ -60,7 +60,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Draconic Evolution (by brandon3055)](https://minecraft.curseforge.com/projects/draconic-evolution)
 1. [DummyCore Unofficial (by TheLMiffy1111, Modbder, and mrAppleXZ)](https://minecraft.curseforge.com/projects/dummycore-unofficial)
 1. [Dynamic Surroundings (by OreCruncher)](https://minecraft.curseforge.com/projects/dynamic-surroundings)
-1. [Embers (by elucent)](https://minecraft.curseforge.com/projects/embers)
+1. [Embers Rekindled (by BordListian)](https://minecraft.curseforge.com/projects/embers-rekindled)
 1. [Ender Storage (by covers1624)](https://minecraft.curseforge.com/projects/ender-storage-1-8)
 1. [Extra Planets (by MJRLegends)](https://minecraft.curseforge.com/projects/extraplanets)
 1. [Foam Fix (by asie)](https://asie.pl/Projects/Minecraft/Mods/FoamFix) (permission to include in modpacks is at https://github.com/asiekierka/FoamFix/issues/13 )
