@@ -63,6 +63,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Embers Rekindled (by BordListian)](https://minecraft.curseforge.com/projects/embers-rekindled)
 1. [Ender Storage (by covers1624)](https://minecraft.curseforge.com/projects/ender-storage-1-8)
 1. [Extra Planets (by MJRLegends)](https://minecraft.curseforge.com/projects/extraplanets)
+1. [FastWorkbench (by Shadows_Of_Fire)](https://minecraft.curseforge.com/projects/fastworkbench)
 1. [Foam Fix (by asie)](https://asie.pl/Projects/Minecraft/Mods/FoamFix) (permission to include in modpacks is at https://github.com/asiekierka/FoamFix/issues/13 )
 1. [Forestry (by SirSengir)](https://minecraft.curseforge.com/projects/forestry)
 1. [FTB Utilities (by FTB)](https://minecraft.curseforge.com/mc-mods/237102)
