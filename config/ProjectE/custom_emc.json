@@ -1379,6 +1379,70 @@
     {
       "item": "thaumcraft:nitor_yellow|0",
       "emc": 768
+    },
+    {
+      "item": "actuallyadditions:item_fertilizer|0",
+      "emc": 48
+    },
+    {
+      "item": "actuallyadditions:item_misc|1",
+      "emc": 48
+    },
+    {
+      "item": "actuallyadditions:item_crystal|1",
+      "emc": 904
+    },
+    {
+      "item": "actuallyadditions:item_crystal|2",
+      "emc": 8252
+    },
+    {
+      "item": "actuallyadditions:item_crystal|0",
+      "emc": 104
+    },
+    {
+      "item": "actuallyadditions:item_crystal|3",
+      "emc": 188
+    },
+    {
+      "item": "actuallyadditions:item_crystal|4",
+      "emc": 16484
+    },
+    {
+      "item": "actuallyadditions:item_crystal|5",
+      "emc": 336
+    },
+    {
+      "item": "actuallyadditions:item_crystal_empowered|0",
+      "emc": 201
+    },
+    {
+      "item": "actuallyadditions:item_crystal_empowered|1",
+      "emc": 1700
+    },
+    {
+      "item": "actuallyadditions:item_crystal_empowered|2",
+      "emc": 8364
+    },
+    {
+      "item": "actuallyadditions:item_crystal_empowered|3",
+      "emc": 337
+    },
+    {
+      "item": "actuallyadditions:item_crystal_empowered|4",
+      "emc": 16577
+    },
+    {
+      "item": "actuallyadditions:item_crystal_empowered|5",
+      "emc": 371
+    },
+    {
+      "item": "actuallyadditions:block_testifi_bucks_white_wall|0",
+      "emc": 1034
+    },
+    {
+      "item": "actuallyadditions:block_testifi_bucks_green_wall|0",
+      "emc": 1034
     }
   ]
 }
