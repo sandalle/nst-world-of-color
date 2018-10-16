@@ -1443,6 +1443,42 @@
     {
       "item": "actuallyadditions:block_testifi_bucks_green_wall|0",
       "emc": 1034
+    },
+    {
+      "item": "galacticraftcore:basic_item|6",
+      "emc": 256
+    },
+    {
+      "item": "galacticraftcore:basic_item|7",
+      "emc": 512
+    },
+    {
+      "item": "galacticraftcore:basic_item|8",
+      "emc": 256
+    },
+    {
+      "item": "galacticraftcore:basic_item|9",
+      "emc": 640
+    },
+    {
+      "item": "galacticraftcore:basic_item|10",
+      "emc": 320
+    },
+    {
+      "item": "galacticraftcore:basic_item|11",
+      "emc": 512
+    },
+    {
+      "item": "galacticraftcore:basic_item|13",
+      "emc": 2796
+    },
+    {
+      "item": "galacticraftcore:basic_item|14",
+      "emc": 8523
+    },
+    {
+      "item": "galacticraftcore:basic_item|12",
+      "emc": 1020
     }
   ]
 }
