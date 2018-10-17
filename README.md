@@ -141,6 +141,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Shadowfacts' Forgelin (by shadowfactsmc)](https://minecraft.curseforge.com/projects/shadowfacts-forgelin)
 1. [Simple Harvest (by TehNut)](https://minecraft.curseforge.com/projects/simpleharvest)
 1. [Snad (by TheRoBrit)](https://minecraft.curseforge.com/projects/snad)
+1. [Stargate Atlantiscraft (by AlphaShadowhawk and soccerguy3, unofficial port of Greg's SG Craft)](https://minecraft.curseforge.com/projects/un-official-port-of-sg-craft)
 1. [Steve's Carts Reborn (by modmuss50)](https://minecraft.curseforge.com/projects/steves-carts-reborn)
 1. [Storage Drawers (by jaquadro)](https://minecraft.curseforge.com/projects/storage-drawers)
 1. [Storage Drawers Extras (by jaquadro)](https://minecraft.curseforge.com/projects/storage-drawers-extras)
