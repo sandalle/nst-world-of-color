@@ -1479,6 +1479,18 @@
     {
       "item": "galacticraftcore:basic_item|12",
       "emc": 1020
+    },
+    {
+      "item": "sgcraft:naquadah|0",
+      "emc": 4096
+    },
+    {
+      "item": "sgcraft:sgcontrollercrystal|0",
+      "emc": 8464
+    },
+    {
+      "item": "sgcraft:sgcorecrystal|0",
+      "emc": 12704
     }
   ]
 }
