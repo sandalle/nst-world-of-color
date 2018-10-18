@@ -1491,6 +1491,42 @@
     {
       "item": "sgcraft:sgcorecrystal|0",
       "emc": 12704
+    },
+    {
+      "item": "simplyjetpacks:metaitemmods|23",
+      "emc": 3904
+    },
+    {
+      "item": "simplyjetpacks:metaitemmods|24",
+      "emc": 9024
+    },
+    {
+      "item": "simplyjetpacks:metaitemmods|25",
+      "emc": 34544
+    },
+    {
+      "item": "thermaldynamics:duct_0|2",
+      "emc": 586
+    },
+    {
+      "item": "forge:bucketfilled|0",
+      "emc": 1408
+    },
+    {
+      "item": "thermalfoundation:material|2049",
+      "emc": 768
+    },
+    {
+      "item": "redstonearsenal:material|32",
+      "emc": 1408
+    },
+    {
+      "item": "redstonearsenal:material|128",
+      "emc": 1408
+    },
+    {
+      "item": "jurassicraft:gypsum_powder|0",
+      "emc": 4
     }
   ]
 }
