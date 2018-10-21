@@ -1527,6 +1527,106 @@
     {
       "item": "jurassicraft:gypsum_powder|0",
       "emc": 4
+    },
+    {
+      "item": "thermalfoundation:dye|0",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:dye|2",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:dye|1",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:dye|3",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:dye|12",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:dye|11",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:dye|6",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:dye|5",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:dye|4",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:dye|13",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:dye|14",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:dye|15",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:dye|10",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:dye|9",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:dye|8",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:dye|7",
+      "emc": 16
+    },
+    {
+      "item": "simplyjetpacks:metaitemmods|19",
+      "emc": 14784
+    },
+    {
+      "item": "simplyjetpacks:metaitemmods|21",
+      "emc": 261
+    },
+    {
+      "item": "immersiveengineering:stone_decoration|8",
+      "emc": 261
+    },
+    {
+      "item": "thermalfoundation:material|164",
+      "emc": 576
+    },
+    {
+      "item": "thermalfoundation:material|135",
+      "emc": 4096
+    },
+    {
+      "item": "orecore:iridium|0",
+      "emc": 4096
+    },
+    {
+      "item": "orecore:uranium|0",
+      "emc": 4096
+    },
+    {
+      "item": "thermalfoundation:material|2052",
+      "emc": 1536
+    },
+    {
+      "item": "thermalfoundation:material|136",
+      "emc": 14144
     }
   ]
 }
