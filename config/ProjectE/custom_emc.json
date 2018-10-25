@@ -1627,6 +1627,22 @@
     {
       "item": "thermalfoundation:material|136",
       "emc": 14144
+    },
+    {
+      "item": "harvestcraft:blackpepperitem|0",
+      "emc": 199
+    },
+    {
+      "item": "harvestcraft:soysauceitem|0",
+      "emc": 579
+    },
+    {
+      "item": "harvestcraft:rawtofeakitem|0",
+      "emc": 158
+    },
+    {
+      "item": "harvestcraft:cookedtofeakitem|0",
+      "emc": 158
     }
   ]
 }
