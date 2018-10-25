@@ -1643,6 +1643,10 @@
     {
       "item": "harvestcraft:cookedtofeakitem|0",
       "emc": 158
+    },
+    {
+      "item": "harvestcraft:chiliitem|0",
+      "emc": 324
     }
   ]
 }
