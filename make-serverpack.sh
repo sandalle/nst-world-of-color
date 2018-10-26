@@ -22,6 +22,7 @@ archiveList="asm/ \
 
 # Exclude these files/folders
 excludeList="config/purpleirc/bots/* \
+			 config/eirairc/servers.json \
 			 mods/ImmersiveEngineering*-core.jar \
 			 libraries/org/minimallycorrect/mixin/Mixin*/Mixin*.jar \
 			 libraries/org/minimallycorrect/modpatcher/ModPatcher*/ModPatcher*.jar"
