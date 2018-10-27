@@ -1647,6 +1647,10 @@
     {
       "item": "harvestcraft:chiliitem|0",
       "emc": 324
+    },
+    {
+      "item": "actuallyadditions:item_misc|13",
+      "emc": 64
     }
   ]
 }
