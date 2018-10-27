@@ -1651,6 +1651,14 @@
     {
       "item": "actuallyadditions:item_misc|13",
       "emc": 64
+    },
+    {
+      "item": "actuallyadditions:block_laser_relay_item|0",
+      "emc": 1026
+    },
+    {
+      "item": "actuallyadditions:block_laser_relay_fluids|0",
+      "emc": 1026
     }
   ]
 }
