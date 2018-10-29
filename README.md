@@ -35,6 +35,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Akashic Tome (by Vazkii)](https://minecraft.curseforge.com/projects/akashic-tome)
 1. [AppleCore (by squeek502)](https://minecraft.curseforge.com/projects/applecore)
 1. [AppleSkin (by squeek502)](https://minecraft.curseforge.com/mc-mods/248787)
+1. [Astral Sorcery (by HellFirePvP and wiiv)](https://minecraft.curseforge.com/projects/astral-sorcery)
 1. [AutoRegLib (by Vazkii)](https://minecraft.curseforge.com/mc-mods/250363)
 1. [Baubles (by azanor)](https://minecraft.curseforge.com/mc-mods/227083)
 1. [BdLib (by bdew)](https://minecraft.curseforge.com/mc-mods/70496)
