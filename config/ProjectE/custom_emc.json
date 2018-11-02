@@ -1659,6 +1659,10 @@
     {
       "item": "actuallyadditions:block_laser_relay_fluids|0",
       "emc": 1026
+    },
+    {
+      "item": "thermalfoundation:material|2048",
+      "emc": 384
     }
   ]
 }
