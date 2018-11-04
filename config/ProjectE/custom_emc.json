@@ -1663,6 +1663,10 @@
     {
       "item": "thermalfoundation:material|2048",
       "emc": 384
+    },
+    {
+      "item": "orecore:ashe_block|0",
+      "emc": 8
     }
   ]
 }
