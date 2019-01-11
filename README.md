@@ -16,7 +16,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 
 # Forge
 
-[1.12.2-14.23.5.2769](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
+[1.12.2-14.23.5.2807](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
 
 # Sponge (Bukkit-like API)
 
@@ -94,6 +94,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [MalisisCore (by Ordinastie)](https://minecraft.curseforge.com/projects/malisiscore)
 1. [MalisisDoors (by Ordinastie)](https://minecraft.curseforge.com/projects/malisisdoors)
 1. [Mantle (by mDiyo)](https://minecraft.curseforge.com/projects/mantle)
+1. [McHorse's Lib (by horsewithnoname)](https://minecraft.curseforge.com/projects/mchorses-mclib) - Required by Metamorph
 1. [McJtyLib (by McJty)](https://minecraft.curseforge.com/mc-mods/233105)
 1. [Metamorph (by horsewithnoname)](https://minecraft.curseforge.com/projects/metamorph)
 1. [More Bees (by Lach_01298)](https://minecraft.curseforge.com/projects/more-bees)
@@ -126,6 +127,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
    * Use the following in server.properties (or selected via GUI) to create a world with ["realistic" terrain](https://twitter.com/Vazkii/status/744293874336735234)
    * ```level-type="quark_realistic"```
 1. [Quick Leaf Decay (by Lumien)](https://minecraft.curseforge.com/projects/quick-leaf-decay)
+1. [Random PSIdeas (by Kamefrede and yrsegal)](https://minecraft.curseforge.com/projects/random-psideas)
 1. [Reborn Core (by modmuss50)](https://minecraft.curseforge.com/projects/reborncore)
 1. [Reborn Storage (by modmuss50)](https://minecraft.curseforge.com/projects/rebornstorage)
 1. [Recurrent Complex (by Ivorius)](https://minecraft.curseforge.com/projects/recurrent-complex)
