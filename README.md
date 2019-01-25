@@ -23,9 +23,10 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 [None yet](http://files.minecraftforge.net/maven/org/spongepowered/spongeforge/)
 
 # Texture Pack
-[LB Photo Realism Reload (by 1LotS)](https://minecraft.curseforge.com/projects/lb-photo-realism-reload)
 
 [Modded Faithful (by xMrVizzy)](https://minecraft.curseforge.com/projects/modded-faithful)
+
+[Soartex Fanver Modded (by Soartex)](https://minecraft.curseforge.com/projects/soartex-fanver-modded)
 
 # Mods
 
