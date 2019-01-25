@@ -16,7 +16,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 
 # Forge
 
-[1.12.2-14.23.5.2807](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
+[1.12.2-14.23.5.2808](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
 
 # Sponge (Bukkit-like API)
 
@@ -118,6 +118,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Open Modular Passive Defense (by Keridos)](https://minecraft.curseforge.com/projects/open-modular-passive-defense)
 1. [Open Modular Turrets (by Keridos)](https://minecraft.curseforge.com/projects/openmodularturrets)
 1. [Ore Core (by XxRexRaptorxX)](https://minecraft.curseforge.com/projects/ore-core)
+1. [OreLib (by OreCruncher)](https://minecraft.curseforge.com/projects/orelib)
 1. [Pam's HarvestCraft (by MatrexsVigil)](https://minecraft.curseforge.com/projects/pams-harvestcraft)
 1. [Persistent Bits (by oitsjustjose)](https://minecraft.curseforge.com/projects/persistent-bits)
 1. [PlusTiC (by Landmaster_phuong0429)](https://minecraft.curseforge.com/projects/plustic)
