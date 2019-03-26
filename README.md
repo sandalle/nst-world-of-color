@@ -69,6 +69,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Foam Fix (by asie)](https://asie.pl/Projects/Minecraft/Mods/FoamFix) (permission to include in modpacks is at https://github.com/asiekierka/FoamFix/issues/13 )
 1. [Forestry (by SirSengir)](https://minecraft.curseforge.com/projects/forestry)
 1. [FTB Utilities (by FTB)](https://minecraft.curseforge.com/mc-mods/237102)
+1. [FTB Utilities: Backups (by FTB)](https://minecraft.curseforge.com/projects/ftb-utilities-backups)
 1. [FTBLib (by FTB)](https://minecraft.curseforge.com/mc-mods/237167)
 1. [Funky Locomotion (by RWTema)](https://minecraft.curseforge.com/projects/funky-locomotion)
 1. [GalactiCraft (by Micdoodle8)](https://micdoodle8.com/mods/galacticraft)
