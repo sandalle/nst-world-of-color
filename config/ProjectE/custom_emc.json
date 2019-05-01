@@ -1667,6 +1667,46 @@
     {
       "item": "orecore:ashe_block|0",
       "emc": 8
+    },
+    {
+      "item": "harvestcraft:porksausageitem|0",
+      "emc": 284
+    },
+    {
+      "item": "harvestcraft:heavycreamitem|0",
+      "emc": 128
+    },
+    {
+      "item": "harvestcraft:butteritem|0",
+      "emc": 308
+    },
+    {
+      "item": "rftools:dimensional_shard|0",
+      "emc": 3480
+    },
+    {
+      "item": "harvestcraft:cheeseitem|0",
+      "emc": 264
+    },
+    {
+      "item": "actuallyadditions:item_food|0",
+      "emc": 432
+    },
+    {
+      "item": "harvestcraft:friesitem|0",
+      "emc": 288
+    },
+    {
+      "item": "actuallyadditions:item_food|5",
+      "emc": 324
+    },
+    {
+      "item": "minecraft:blaze_powder|0",
+      "emc": 768
+    },
+    {
+      "item": "thermalfoundation:material|832",
+      "emc": 128
     }
   ]
 }
