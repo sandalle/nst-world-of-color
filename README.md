@@ -126,6 +126,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Pam's HarvestCraft (by MatrexsVigil)](https://minecraft.curseforge.com/projects/pams-harvestcraft)
 1. [Persistent Bits (by oitsjustjose)](https://minecraft.curseforge.com/projects/persistent-bits)
 1. [PlusTiC (by Landmaster_phuong0429)](https://minecraft.curseforge.com/projects/plustic)
+1. [Project Intelligence (by brandon3055)](https://minecraft.curseforge.com/projects/project-intelligence)
 1. [ProjectE (by sinkillerj)](https://minecraft.curseforge.com/projects/projecte)
 1. [Psi (by Vazkii)](https://minecraft.curseforge.com/mc-mods/241665)
 1. [Quantum Storage (by Gigabit101)](https://minecraft.curseforge.com/projects/quantumstorage)

@@ -1,0 +1,21 @@
+{
+  "downloadsAllowed": true,
+  "tutorialDisplayed": true,
+  "editMode": false,
+  "etCheckFluid": true,
+  "editingRepoLoc": "",
+  "editorAlwaysOnTop": false,
+  "editorLineWrap": false,
+  "maxTabs": 16,
+  "editorLAF": "",
+  "screenMode": 1,
+  "screenPosOverride": true,
+  "screenPosX": 40,
+  "screenPosY": 6,
+  "userLanguage": "[MINECRAFT-LANG]",
+  "homePage": "draconicevolution:energy_storage_core",
+  "searchMode": "EVERYWHERE",
+  "pageLangOverrides": {},
+  "modLangOverrides": {},
+  "modVersionOverrides": {}
+}
