@@ -221,7 +221,8 @@
   "itemmodblacklist": [
   ],
   "itemblacklist": [
-
+  ],
+  "entitygenerateonlylist": [
   ]
 }
 

@@ -1,10 +1,10 @@
 {
 	"output": {
-		"item": "wizardry:wisdom_stick"
+		"item": "wizardry:wisdom_wood_fence"
 	},
 	"input": {
 		"type": "forge:ore_dict",
-		"ore": "stickWood"
+		"ore": "fenceWood"
 	},
 	"duration": 0,
 	"harp": false
