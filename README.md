@@ -16,7 +16,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 
 # Forge
 
-[1.12.2-14.23.5.2836](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
+[1.12.2-14.23.5.2838](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
 
 # Sponge (Bukkit-like API)
 
@@ -106,6 +106,8 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Morpheus (by Quetzi)](https://minecraft.curseforge.com/mc-mods/69118)
 1. [MrCrayfish's Furniture Mod (by Mr_Crayfish)](https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod)
 1. [MJRLegends Lib (by MJRLegends)](https://minecraft.curseforge.com/projects/mjrlegendslib)
+1. [Mystic World (by EpicSquid319)](https://www.curseforge.com/minecraft/mc-mods/mysticallib) - Required by Roots 3
+1. [MysticalLib (by EpicSquid319)](https://www.curseforge.com/minecraft/mc-mods/mysticallib) - Required by Roots 3
 1. [Mystical Agradditions (by BlakeBr0)](https://minecraft.curseforge.com/projects/mystical-agradditions)
 1. [Mystical Agriculture (by BlakeBr0)](https://minecraft.curseforge.com/mc-mods/246640)
 1. [Natura (by mDiyo)](https://minecraft.curseforge.com/projects/natura)
@@ -123,6 +125,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Ore Core (by XxRexRaptorxX)](https://minecraft.curseforge.com/projects/ore-core)
 1. [OreLib (by OreCruncher)](https://minecraft.curseforge.com/projects/orelib)
 1. [Pam's HarvestCraft (by MatrexsVigil)](https://minecraft.curseforge.com/projects/pams-harvestcraft)
+1. [Patchouli (by Vazkii)](https://www.curseforge.com/minecraft/mc-mods/patchouli) - Required by Quark
 1. [Persistent Bits (by oitsjustjose)](https://minecraft.curseforge.com/projects/persistent-bits)
 1. [PlusTiC (by Landmaster_phuong0429)](https://minecraft.curseforge.com/projects/plustic)
 1. [Project Intelligence (by brandon3055)](https://minecraft.curseforge.com/projects/project-intelligence)
