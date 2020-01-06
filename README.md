@@ -127,6 +127,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Pam's HarvestCraft (by MatrexsVigil)](https://minecraft.curseforge.com/projects/pams-harvestcraft)
 1. [Patchouli (by Vazkii)](https://www.curseforge.com/minecraft/mc-mods/patchouli) - Required by Quark
 1. [Persistent Bits (by oitsjustjose)](https://minecraft.curseforge.com/projects/persistent-bits)
+1. [Phosphor (by jellysquid_)](https://www.curseforge.com/minecraft/mc-mods/phosphor)
 1. [PlusTiC (by Landmaster_phuong0429)](https://minecraft.curseforge.com/projects/plustic)
 1. [Project Intelligence (by brandon3055)](https://minecraft.curseforge.com/projects/project-intelligence)
 1. [ProjectE (by sinkillerj)](https://minecraft.curseforge.com/projects/projecte)
