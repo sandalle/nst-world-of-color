@@ -9,6 +9,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [NST Frostburn](https://minecraft.curseforge.com/projects/nst-unofficial-frostburn) - Minecraft 1.10.2
 * [NST Exploration](https://minecraft.curseforge.com/projects/nst-unofficial-exploration) - Minecraft 1.11.2
 * [NST Nether](https://www.curseforge.com/minecraft/modpacks/nst-nether) - Minecraft 1.16.5
+* [NST Caves & Cliffs](https://legacy.curseforge.com/minecraft/modpacks/nst-caves-cliffs) - Minecraft 1.18.2
 
 # Packs using this config
 
